@@ -1,0 +1,1 @@
+Hackerrank challenge - erase vector
